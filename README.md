@@ -17,12 +17,16 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 
 > No projects yet — but every expert started with zero repositories 🙂
 
+---
+
 ## 🎵 Favorite Song on Spotify
 
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31casua5rsdqlkrd3wd2k7bjz3e)
 
+---
 
 ## 🛠️ Technical Skills
+
 ### 💻 Programming Languages
 - Python (Intermediate)
 - C++ (Foundations)
@@ -55,6 +59,10 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 - Basics of reverse engineering
 - Advanced cybersecurity topics
 
+---
+
+## 📌 Personal Profile (YAML Style)
+
 ```yaml
 name: Hassan Omar
 role: Cybersecurity Student
@@ -77,4 +85,3 @@ goals:
   - Build real cybersecurity projects
   - Improve Python skills for security use-cases
   - Become a professional in cybersecurity
-
