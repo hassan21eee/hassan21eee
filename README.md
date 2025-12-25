@@ -52,9 +52,6 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 - Basics of reverse engineering
 - Advanced cybersecurity topics
 
----
-
-## 📌 Personal Profile (YAML Style)
 ```yaml
 name: Hassan Omar
 role: Cybersecurity Student
@@ -78,19 +75,3 @@ goals:
   - Improve Python skills for security use-cases
   - Become a professional in cybersecurity
 
-🎵 Favorite Song on Spotify
-
-BITTERSUITE – Billie Eilish
-
-<p align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false" /> </p>
-🌐 Connect with Me
-<p align="center"> <a href="https://www.instagram.com/k6q7" target="_blank"> <img alt="Instagram" width="45px" src="https://user-images.githubusercontent.com/43545812/144035160-9f3a0e1e-9a1a-4f4a-8a9c-92d0b7a1f4e6.png" /> </a> </p>
-📈 GitHub Journey
-
-🚧 Projects coming soon
-
-📌 This profile will grow as I build and share my work
-
-🌱 Learning in public, step by step
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> </p> ```
