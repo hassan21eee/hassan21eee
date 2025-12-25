@@ -19,9 +19,13 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 
 ## 🎵 Favorite Song on Spotify
 
-[![Listen on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU?si=5fbc273eecc24fe9)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5" />
+</p>
 
-**BITTERSUITE – Billie Eilish**
+<p align="center">
+  <strong>Favorite track:</strong> BITTERSUITE – Billie Eilish
+</p>
 
 
 ---
