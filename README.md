@@ -21,7 +21,11 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 
 ## 🎵 Favorite Song on Spotify
 
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31casua5rsdqlkrd3wd2k7bjz3e)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/PATH/spotify-recently-played.png" 
+       width="420" 
+       alt="Spotify Recently Played" />
+</p>
 
 ---
 
