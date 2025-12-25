@@ -15,8 +15,6 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 - 🔐 Interested in cybersecurity, systems, and defensive security
 - 🚀 Learning step by step and preparing to build real projects
 
-> No projects yet — but every expert started with zero repositories 🙂
-
 ---
 
 ## 🎵 Favorite Song on Spotify
