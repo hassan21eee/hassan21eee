@@ -17,6 +17,13 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 
 > No projects yet — but every expert started with zero repositories 🙂
 
+## 🎵 Favorite Song on Spotify
+
+[![Listen on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU?si=5fbc273eecc24fe9)
+
+**BITTERSUITE – Billie Eilish**
+
+
 ---
 
 ## 🛠️ Technical Skills
