@@ -21,7 +21,6 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 
 ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31casua5rsdqlkrd3wd2k7bjz3e)
 
----
 
 ## 🛠️ Technical Skills
 ### 💻 Programming Languages
