@@ -20,11 +20,13 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 ## 🎵 Favorite Song on Spotify
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5" />
+  <a href="https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU">
+    <img src="https://i.scdn.co/image/ab67616d0000b273e1f9a38c5d89cfe5e9f3e7d6" width="300" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Favorite track:</strong> BITTERSUITE – Billie Eilish
+  <strong>BITTERSUITE – Billie Eilish</strong>
 </p>
 
 
