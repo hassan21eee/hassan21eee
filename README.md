@@ -22,10 +22,9 @@ I’m currently building a strong foundation in **cybersecurity concepts** and *
 ## 🎵 Favorite Song on Spotify
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH_NAME/PATH/spotify-recently-played.png" 
-       width="420" 
-       alt="Spotify Recently Played" />
+  <img src="spotify.png" width="420" alt="Spotify Recently Played" />
 </p>
+
 
 ---
 
